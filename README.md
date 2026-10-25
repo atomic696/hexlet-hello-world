@@ -1,1 +1,1 @@
-[![show-directory](https://github.com/atomic696/https://github.com/atomic696/hexlet-hello-world.git/actions/workflows/show-directory.yml/badge.svg)](https://github.com/ atomic696/https://github.com/atomic696/hexlet-hello-world.git/actions/workflows/show-directory.yml)
+[![show-directory](https://github.com/atomic696/hexlet-hello-world/actions/workflows/show-directory.yml/badge.svg)](https://github.com/atomic696/hexlet-hello-world/actions/workflows/show-directory.yml)
